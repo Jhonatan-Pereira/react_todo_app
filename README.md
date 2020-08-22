@@ -4,6 +4,8 @@
   </h1>
 </p>
 
+![Viewport do Projeto][viewport]
+
 ## About
 Este Projeto foi desenvolvido para fins acadêmicos através do curso [Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!](https://www.udemy.com/course/react-redux-pt/) da [Cod3r](https://github.com/cod3rcursos).
 
@@ -26,11 +28,15 @@ npm run dev
 
 Clique em [http://localhost:8080](http://localhost:8080) para visualizar no browser.
 
+Projeto [backend](https://github.com/Jhonatan-Pereira/todo_app_backend).
+
 ### Production
 ```sh
 npm run production
 ```
 
-# Author
+## Author
 
 Jhonatan Frade <jhonatanfrade.pereira@gmail.com>
+
+[viewport]: https://github.com/Jhonatan-Pereira/todo_app_frontend/blob/master/assets/viewport.png?raw=true "Viewport"
